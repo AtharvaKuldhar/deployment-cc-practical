@@ -1,0 +1,56 @@
+body{
+    background-color: #677777;
+    margin: 0;
+    font-family : Sans-serif;
+}
+
+nav{
+    background-color: black;
+    color : white;
+    padding :15px;
+    
+    display:flex;
+}
+
+.nav-links{
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
+
+    margin-left: auto;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
+    padding-left: 240px;
+}
+
+.logo{
+    padding:15px;
+    font-size:20px;
+}
+
+h1{
+    text-align: center;
+}
+
+.name{
+    font-size:40px;
+}
+
+.about{
+    text-align: center;
+    padding:10px;
+    background-color: white;
+    border-radius: 8px;
+    margin: 200px;
+    padding: 10px;
+    
+    margin-top:0;
+    margin-bottom:10px;
+}
+
+.des{
+    text-align: center;
+}
